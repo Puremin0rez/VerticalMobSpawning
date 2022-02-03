@@ -1,0 +1,6 @@
+name: "${name}"
+author: "Puremin0rez"
+description: Makes mob spawning better.
+version: "${version}"
+api-version: "1.13"
+main: "${group}.verticalmobspawning.${name}"
